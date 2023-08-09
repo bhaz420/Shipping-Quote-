@@ -1,0 +1,19 @@
+C:\Users\brend\OneDrive\Documents\Visual Studio\VS Webpage Project\ConsoleApp Shipping Project\ConsoleApp Shipping Project\bin\Debug\net6.0\ConsoleApp Shipping Project.exe
+C:\Users\brend\OneDrive\Documents\Visual Studio\VS Webpage Project\ConsoleApp Shipping Project\ConsoleApp Shipping Project\bin\Debug\net6.0\ConsoleApp Shipping Project.deps.json
+C:\Users\brend\OneDrive\Documents\Visual Studio\VS Webpage Project\ConsoleApp Shipping Project\ConsoleApp Shipping Project\bin\Debug\net6.0\ConsoleApp Shipping Project.runtimeconfig.json
+C:\Users\brend\OneDrive\Documents\Visual Studio\VS Webpage Project\ConsoleApp Shipping Project\ConsoleApp Shipping Project\bin\Debug\net6.0\ConsoleApp Shipping Project.dll
+C:\Users\brend\OneDrive\Documents\Visual Studio\VS Webpage Project\ConsoleApp Shipping Project\ConsoleApp Shipping Project\bin\Debug\net6.0\ConsoleApp Shipping Project.pdb
+C:\Users\brend\OneDrive\Documents\Visual Studio\VS Webpage Project\ConsoleApp Shipping Project\ConsoleApp Shipping Project\obj\Debug\net6.0\ConsoleApp Shipping Project.csproj.AssemblyReference.cache
+C:\Users\brend\OneDrive\Documents\Visual Studio\VS Webpage Project\ConsoleApp Shipping Project\ConsoleApp Shipping Project\obj\Debug\net6.0\ConsoleApp Shipping Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brend\OneDrive\Documents\Visual Studio\VS Webpage Project\ConsoleApp Shipping Project\ConsoleApp Shipping Project\obj\Debug\net6.0\ConsoleApp Shipping Project.AssemblyInfoInputs.cache
+C:\Users\brend\OneDrive\Documents\Visual Studio\VS Webpage Project\ConsoleApp Shipping Project\ConsoleApp Shipping Project\obj\Debug\net6.0\ConsoleApp Shipping Project.AssemblyInfo.cs
+C:\Users\brend\OneDrive\Documents\Visual Studio\VS Webpage Project\ConsoleApp Shipping Project\ConsoleApp Shipping Project\obj\Debug\net6.0\ConsoleApp Shipping Project.csproj.CoreCompileInputs.cache
+C:\Users\brend\OneDrive\Documents\Visual Studio\VS Webpage Project\ConsoleApp Shipping Project\ConsoleApp Shipping Project\obj\Debug\net6.0\ConsoleApp Shipping Project.dll
+C:\Users\brend\OneDrive\Documents\Visual Studio\VS Webpage Project\ConsoleApp Shipping Project\ConsoleApp Shipping Project\obj\Debug\net6.0\refint\ConsoleApp Shipping Project.dll
+C:\Users\brend\OneDrive\Documents\Visual Studio\VS Webpage Project\ConsoleApp Shipping Project\ConsoleApp Shipping Project\obj\Debug\net6.0\ConsoleApp Shipping Project.pdb
+C:\Users\brend\OneDrive\Documents\Visual Studio\VS Webpage Project\ConsoleApp Shipping Project\ConsoleApp Shipping Project\obj\Debug\net6.0\ConsoleApp Shipping Project.genruntimeconfig.cache
+C:\Users\brend\OneDrive\Documents\Visual Studio\VS Webpage Project\ConsoleApp Shipping Project\ConsoleApp Shipping Project\obj\Debug\net6.0\ref\ConsoleApp Shipping Project.dll
+C:\Users\brend\OneDrive\Documents\Visual Studio\VS Webpage Project\NEW WEB APP\Console Shipping APP\ConsoleApp Shipping Project\obj\Debug\net6.0\ConsoleApp Shipping Project.csproj.AssemblyReference.cache
+C:\Users\brend\OneDrive\Documents\Visual Studio\VS Webpage Project\NEW WEB APP\Console Shipping APP\ConsoleApp Shipping Project\obj\Debug\net6.0\ConsoleApp Shipping Project.dll
+C:\Users\brend\OneDrive\Documents\Visual Studio\VS Webpage Project\NEW WEB APP\Console Shipping APP\ConsoleApp Shipping Project\obj\Debug\net6.0\refint\ConsoleApp Shipping Project.dll
+C:\Users\brend\OneDrive\Documents\Visual Studio\VS Webpage Project\NEW WEB APP\Console Shipping APP\ConsoleApp Shipping Project\obj\Debug\net6.0\ConsoleApp Shipping Project.pdb
